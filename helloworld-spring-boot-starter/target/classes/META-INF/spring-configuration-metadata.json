@@ -1,0 +1,77 @@
+{
+  "groups": [
+    {
+      "name": "spring.hello",
+      "type": "com.test.autoconfigure1.HelloWorldProperties1",
+      "sourceType": "com.test.autoconfigure1.HelloWorldProperties1"
+    },
+    {
+      "name": "spring.world",
+      "type": "com.test.autoconfigure2.HelloWorldProperties2",
+      "sourceType": "com.test.autoconfigure2.HelloWorldProperties2"
+    },
+    {
+      "name": "spring.world.test",
+      "type": "com.test.autoconfigure2.TestProperties",
+      "sourceType": "com.test.autoconfigure2.TestProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spring.hello.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.test.autoconfigure1.HelloWorldProperties1"
+    },
+    {
+      "name": "spring.hello.birthday",
+      "type": "java.util.Date",
+      "sourceType": "com.test.autoconfigure1.HelloWorldProperties1"
+    },
+    {
+      "name": "spring.hello.dept",
+      "type": "com.test.autoconfigure1.properties.Dept",
+      "sourceType": "com.test.autoconfigure1.HelloWorldProperties1"
+    },
+    {
+      "name": "spring.hello.name",
+      "type": "java.lang.String",
+      "sourceType": "com.test.autoconfigure1.HelloWorldProperties1"
+    },
+    {
+      "name": "spring.world.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.test.autoconfigure2.HelloWorldProperties2"
+    },
+    {
+      "name": "spring.world.birthday",
+      "type": "java.util.Date",
+      "sourceType": "com.test.autoconfigure2.HelloWorldProperties2"
+    },
+    {
+      "name": "spring.world.dept",
+      "type": "com.test.autoconfigure1.properties.Dept",
+      "sourceType": "com.test.autoconfigure2.HelloWorldProperties2"
+    },
+    {
+      "name": "spring.world.name",
+      "type": "java.lang.String",
+      "sourceType": "com.test.autoconfigure2.HelloWorldProperties2"
+    },
+    {
+      "name": "spring.world.test",
+      "type": "java.lang.String",
+      "sourceType": "com.test.autoconfigure2.HelloWorldProperties2"
+    },
+    {
+      "name": "spring.world.test.id",
+      "type": "java.lang.String",
+      "sourceType": "com.test.autoconfigure2.TestProperties"
+    },
+    {
+      "name": "spring.world.test.url",
+      "type": "java.lang.String",
+      "sourceType": "com.test.autoconfigure2.TestProperties"
+    }
+  ],
+  "hints": []
+}

@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.test.autoconfigure1.HelloWorldAutoConfiguration1,\
+  com.test.autoconfigure2.HelloWorldAutoConfiguration2
+

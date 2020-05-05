@@ -1,0 +1,9 @@
+com/test/autoconfigure1/HelloWorldAutoConfiguration1.class
+META-INF/spring-configuration-metadata.json
+com/test/template/HWTemplate1.class
+com/test/autoconfigure2/HelloWorldAutoConfiguration2.class
+com/test/autoconfigure1/HelloWorldProperties1.class
+com/test/autoconfigure1/properties/Dept.class
+com/test/autoconfigure2/HelloWorldProperties2.class
+com/test/template/HWTemplate2.class
+com/test/autoconfigure2/TestProperties.class

@@ -1,0 +1,13 @@
+server:
+  port: 80
+spring:
+  hello:
+    enable: true
+    age: 12
+    name: xiaoming1
+    dept:
+      deptNo: 100
+  world:
+    name: xiaoqiag2
+    age: 16
+    test: 123a
